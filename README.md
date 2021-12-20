@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://github.com/ragulmani936/LU-Decomposition/blob/main/Screenshot%20(29).png?raw=true)
 
 
 ## Result:
