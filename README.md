@@ -22,19 +22,12 @@ RegisterNumber: 21500303
 */
 ```
 ~~~
-Program to find the LU Decomposition of a matrix.
 import numpy as np
 from scipy. linalg import lu
 A = np.array(eval(input()))
 P,L,U=lu(A)
 print(L)
 print(U)
-~~~
-/*
-Program to solve using  LU Decomposition of a matrix.
-Developed by:Ragul.M 
-RegisterNumber: 21500303
-*/
 ~~~
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
@@ -43,16 +36,12 @@ B=np.array(eval(input()))
 lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
-~~~
 
 
 
 ## Output:
-Program to find the LU Decomposition of a matrix.
 ![lu decomposition](https://github.com/ragulmani936/LU-Decomposition/blob/main/Screenshot%20(29).png?raw=true)
-Program to solve a matrix using LU decomposition
 ![lu decomposition](https://github.com/ragulmani936/LU-Decomposition/blob/main/Screenshot%20(30).png?raw=true)
- 
 
 
 ## Result:
