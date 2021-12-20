@@ -41,7 +41,7 @@ print(x)
 
 ## Output:
 ![lu decomposition](https://github.com/ragulmani936/LU-Decomposition/blob/main/Screenshot%20(29).png?raw=true)
-![lu decomposition](
+![lu decomposition](https://github.com/ragulmani936/LU-Decomposition/blob/main/Screenshot%20(30).png?raw=true)
 
 
 ## Result:
