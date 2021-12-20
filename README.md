@@ -15,11 +15,9 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 ```
-/*
 Program to find the LU Decomposition of a matrix.
 Developed by:Ragul.M 
 RegisterNumber: 21500303
-*/
 ```
 ~~~
 import numpy as np
@@ -28,12 +26,11 @@ A = np.array(eval(input()))
 P,L,U=lu(A)
 print(L)
 print(U)
-/*
-/*
+~~~
+```
 Program to solve a matrix using LU decomposition.
 Developed by:Ragul.M 
 RegisterNumber: 21500303
-*/
 ```
 ~~~
 import numpy as np
