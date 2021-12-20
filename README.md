@@ -21,12 +21,14 @@ Developed by:
 RegisterNumber: 
 */
 ```
+~~~
 import numpy as np
 from scipy. linalg import lu
 A = np.array(eval(input()))
 P,L,U=lu(A)
 print(L)
 print(U)
+~~~
 
 
 
