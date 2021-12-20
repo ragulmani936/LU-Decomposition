@@ -29,6 +29,11 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ~~~
+/*
+Program to solve using  LU Decomposition of a matrix.
+Developed by:Ragul.M 
+RegisterNumber: 21500303
+*/
 ~~~
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
