@@ -21,6 +21,14 @@ Developed by:
 RegisterNumber: 
 */
 ```
+import numpy as np
+from scipy. linalg import lu
+A = np.array(eval(input()))
+P,L,U=lu(A)
+print(L)
+print(U)
+
+
 
 ## Output:
 ![lu decomposition](https://github.com/ragulmani936/LU-Decomposition/blob/main/Screenshot%20(29).png?raw=true)
