@@ -22,6 +22,7 @@ RegisterNumber: 21500303
 */
 ```
 ~~~
+Program to find the LU Decomposition of a matrix.
 import numpy as np
 from scipy. linalg import lu
 A = np.array(eval(input()))
